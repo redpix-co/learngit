@@ -6,4 +6,4 @@
 
 4. git push
 
-5. Pull Request
+5. git pull (get laterst src from server to local)
