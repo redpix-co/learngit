@@ -2,3 +2,4 @@
 
 2. git add .   (r) git add cmd.txt
 
+3. git commit -m 'msg'
