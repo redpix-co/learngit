@@ -1,2 +1,4 @@
 1. Initial Cmd => git clone https://github.com/redpix-co/learngit.git
 
+2. git add .   (r) git add cmd.txt
+
